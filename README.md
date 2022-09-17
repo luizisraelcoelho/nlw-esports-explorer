@@ -1,22 +1,26 @@
 
-# SEMANA NLW EXPLORER ROCKESEAT.
+# SEMANA NLW EXPLORER eSports.
 
 
-## Aprendizados
+![preview](./.github/preview.png)
 
-Desafio proposto no semana NLW  Explorer da Rocketseat, a proposta era desenvolver uma pagina  Web com HTML e CSS a partir de um design no Figma.
 
-## Stack utilizada
+>- Trilha Explorer
 
-**Front-end:** HTML & CSS
+Projeto Contruído no evento Next Level Week da Rockeseat.
 
-## FIGMA
+## Aprendizados / Tecnilogias
+- HTML
+- CSS
+- Git e Github
+
+## PROJETO FIGMA
 
 <a href="https://www.figma.com/file/ASL1v9DqwIe8WsiXsPwAfp/NLW-eSports-(Community)?node-id=6%3A23" target="_blank">Link do Figma</a>
 
 ## Deploy
+ <a href="https://luizisraelcoelho.github.io/nlw-esports-explorer/" target="_blank">Acesse aqui para acessar</a>
 
- <a href="https://magenta-capybara-c60584.netlify.app/" target="_blank">Formulário de Mentoria</a>
-
-
+## Contato
+luizisraelcoelho@gmail.com
 
