@@ -12,11 +12,11 @@ Desafio proposto no semana NLW  Explorer da Rocketseat, a proposta era desenvolv
 
 ## FIGMA
 
-<a href="https://www.figma.com/file/ASL1v9DqwIe8WsiXsPwAfp/NLW-eSports-(Community)?node-id=6%3A23" target="_blank">Link do Figma</a>
+<a href="https://www.figma.com/file/ASL1v9DqwIe8WsiXsPwAfp/NLW-eSports-(Community)?node-id=6%3A23" target=_blank>Link do Figma</a>
 
 ## Deploy
 
- <a href="https://magenta-capybara-c60584.netlify.app/" target="_blank">Formulário de Mentoria</a>
+ <a href="https://magenta-capybara-c60584.netlify.app/" target=_blank>Formulário de Mentoria</a>
 
 
 
