@@ -1,20 +1,22 @@
 
-# Desafio - Fase03 Explorer - Form01.
+# SEMANA NLW EXPLORER ROCKESEAT.
 
 
 ## Aprendizados
 
-Desafio proposto no programa Explorer da Rocketseat, a proposta era desenvolver um formulário na Web com HTML e CSS a partir de um design no Figma.
+Desafio proposto no semana NLW  Explorer da Rocketseat, a proposta era desenvolver uma pagina  Web com HTML e CSS a partir de um design no Figma.
 
 ## Stack utilizada
 
 **Front-end:** HTML & CSS
 
+## FIGMA
 
+<a href="https://www.figma.com/file/ASL1v9DqwIe8WsiXsPwAfp/NLW-eSports-(Community)?node-id=6%3A23" target="_blank">Link do Figma</a>
 
 ## Deploy
 
- <a href="https://shimmering-lamington-e1d0cd.netlify.app/" target="_blank">Formulário de Mentoria</a>
+ <a href="" target="_blank">Formulário de Mentoria</a>
 
 
 
