@@ -16,7 +16,7 @@ Desafio proposto no semana NLW  Explorer da Rocketseat, a proposta era desenvolv
 
 ## Deploy
 
- <a href="" target="_blank">Formulário de Mentoria</a>
+ <a href="https://magenta-capybara-c60584.netlify.app/" target="_blank">Formulário de Mentoria</a>
 
 
 
